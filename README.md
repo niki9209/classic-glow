@@ -1,62 +1,146 @@
-# 🍦 Ice Cream Brand Clone
+# ✨ Classic Glow Jewellery Website
 
-A visually appealing and responsive **Ice Cream Brand Website Clone** built using **HTML and CSS**.
-This project focuses on frontend design, layout structuring, and styling to replicate a modern ice cream brand website.
+## 📌 Project Overview
 
----
+Classic Glow is a modern and elegant jewellery website designed for showcasing traditional and contemporary jewellery collections. The project focuses on a luxurious user experience with category-based browsing, collection pages, occasion-based filtering, and responsive product layouts.
 
-## 🚀 Live Demo
-
-🔗 (Add your GitHub Pages link here after deployment)
+This project was created using HTML, CSS, and JavaScript as part of frontend web development practice.
 
 ---
 
-## 📌 Features
+# 🌟 Features
 
-* 🍨 Attractive landing page design
-* 🎨 Clean and modern UI
-* 📱 Responsive layout (mobile-friendly)
-* 🖼️ Image integration for branding
-* 🧩 Structured HTML & CSS code
+* Elegant and responsive homepage
+* Modern navigation bar
+* Jewellery category pages
+* Occasion-based collections
+* Product filtering using JavaScript
+* Wishlist heart icons
+* Hover animations and premium UI
+* Collection pages
+* Materials page
+* New Arrivals section
+* View All products page
+* Multiple product cards with clickable navigation
 
 ---
 
-## 🛠️ Technologies Used
+# 💎 Categories Included
+
+* Necklaces
+* Earrings
+* Rings
+* Bracelets & Bangles
+* Jewellery Sets
+* Men's Jewellery
+* Nose Pins
+* Anklets
+
+---
+
+# 🎉 Occasion Collections
+
+* Daily Wear
+* Office Wear
+* Party Wear
+* Wedding Collection
+* Bridal Collection
+* Minimal Collection
+
+---
+
+# 🛠️ Technologies Used
 
 * HTML5
 * CSS3
+* JavaScript
+* Font Awesome Icons
+* Google Fonts
 
 ---
 
+# 📂 Project Structure
 
-
-## 🎯 Purpose of Project
-
-This project was created to:
-
-* Practice frontend development skills
-* Improve layout and styling techniques
-* Understand real-world website design structure
-
----
-
-## 📈 Future Improvements
-
-* Add JavaScript for interactivity
-* Improve animations and transitions
-* Make it fully responsive for all devices
-
----
-
-## 👩‍💻 Author
-
-**Nikita Ware**
-📍 Pune, Maharashtra
+```bash
+Classic-Glow/
+│
+├── index.html
+├── shop.html
+├── collections.html
+├── occasion.html
+├── materials.html
+├── new.html
+├── necklaces.html
+├── earrings.html
+├── rings.html
+├── bracelets.html
+├── mens.html
+├── sets.html
+├── style.css
+├── script.js
+└── assets/images
+```
 
 ---
 
-## ⭐ Support
+# 🚀 Live Website
 
-If you like this project, give it a ⭐ on GitHub!
+Add your GitHub Pages link here:
+
+```bash
+https://yourusername.github.io/classic-glow/
+```
 
 ---
+
+# 📸 Website Highlights
+
+* Luxury jewellery inspired UI
+* Traditional + Modern design blend
+* Interactive product cards
+* Clean responsive layouts
+* Smooth hover effects
+
+---
+
+# 👩‍💻 Developed By
+
+**Nikita**
+
+Frontend Web Development Project
+
+Training Institute: **QSpiders**
+
+---
+
+# 📚 Learning Outcome
+
+Through this project, I learned:
+
+* Responsive web design
+* HTML page structuring
+* CSS styling & layouts
+* JavaScript DOM manipulation
+* Product filtering functionality
+* Website navigation systems
+* Git & GitHub deployment
+
+---
+
+# ⭐ Future Improvements
+
+* Add Add-to-Cart functionality
+* User Login & Authentication
+* Backend integration
+* Payment Gateway
+* Database connectivity
+* Wishlist storage
+* Search functionality
+
+---
+
+# 📩 Feedback
+
+Suggestions and feedback are always welcome.
+
+If you like this project, feel free to ⭐ the reposito
